@@ -1,0 +1,31 @@
+{
+  "name": "ferminfeng/php-log",
+  "type": "library",
+  "description": "php Log Component",
+  "keywords": [
+    "php",
+    "log"
+  ],
+  "homepage": "https://github.com/ferminfeng/php-log",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ferminfeng",
+      "email": "ferminfeng@gmail.com",
+      "homepage": "https://ferminfeng.github.io"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "ferminfeng\\php-log\\": "/src"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.1.x-dev"
+    }
+  }
+}
