@@ -20,7 +20,7 @@
   },
   "autoload": {
     "psr-4": {
-      "ferminfeng\\php-log\\": "/src"
+      "ferminfeng\\log\\": "/src"
     }
   },
   "extra": {
